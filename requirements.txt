@@ -1,0 +1,9 @@
+mypy==0.942
+mypy-extensions==0.4.3
+numpy==1.22.3
+opencv-contrib-python==4.5.5.64
+opencv-python==4.5.5.64
+Pillow==9.1.0
+pywin32==303
+tomli==2.0.1
+typing_extensions==4.1.1
